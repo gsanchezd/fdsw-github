@@ -4,6 +4,12 @@ body {
 
 /* Hero Section */
 
+img {
+  height: 20%;
+  width: 20%;
+  
+}
+
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
