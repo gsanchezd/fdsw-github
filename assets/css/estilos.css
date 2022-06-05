@@ -9,7 +9,7 @@ body {
 
 /* Header Section */
 #Header-Section {
-  background-image: url("/assets/img/bg-header-01.jpg");
+  background-image: url("/assets/img/bg-header-02.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -17,7 +17,7 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#Mis-Actos-De-Maldad .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
