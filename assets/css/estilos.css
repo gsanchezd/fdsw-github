@@ -7,12 +7,15 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/article/2022/06/24/todo_para_decorar_y_organizar_las_fiestas_de_tus_hijos.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
+.display-1{
+  color:fuchsia;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
