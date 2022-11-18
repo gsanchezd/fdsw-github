@@ -30,10 +30,11 @@ body {
  }
 
 .contacto-color{
-  background-image:url("https://images.unsplash.com/photo-1585667917231-5c2e4d018646?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  background-image:url("https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  color: #fff;
 }
 
 @media (max-width: 768px) {
