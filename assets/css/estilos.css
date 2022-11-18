@@ -1,14 +1,16 @@
 body {
   font-family: "Raleway", sans-serif;
+  color: rgb(61, 58, 58);
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("https://images.unsplash.com/photo-1524037857322-7fe3c4a313f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: right;
+  color: #373a3c;
 }
 
 /* Mis trabajos */
