@@ -29,6 +29,9 @@ body {
   font-weight: 700;
   color: #373a3c;
 }
+#Mis-trabajos{
+  background-color: #5e22927b;
+}
 
 @media (max-width: 768px) {
   #Contacto form label {
