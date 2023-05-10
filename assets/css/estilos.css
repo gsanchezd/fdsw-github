@@ -36,3 +36,8 @@ body {
     width: 100px;
   }
 }
+
+.title-banner {
+  font-weight: 800;
+  text-shadow: -3px 3px 7px;
+}
