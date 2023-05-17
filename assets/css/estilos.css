@@ -12,6 +12,14 @@ body {
 }
 .h1{
   text-shadow: -4px 0px black;
+  text-align: center;
+}
+.parraf-hero{
+  text-align: center;
+  background-color: rgb(33 37 41);
+  border-radius: 19px;
+  padding: 1em;
+  opacity: 69%;
 }
 
 /* Mis trabajos */
