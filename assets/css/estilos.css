@@ -9,6 +9,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  height: 95vh;
+}
+
+#banner{
+  padding-top: 8rem;
 }
 
 #f-data {
