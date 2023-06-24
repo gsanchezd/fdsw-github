@@ -11,6 +11,22 @@ body {
   background-position: left;
 }
 
+#f-data {
+  overflow: hidden;
+}
+
+#f-data:hover #data-title, 
+#f-data:hover #data-text {
+  transform: translateX(0);
+  transition: transform 0.3s 0.2s;
+}
+#data-title{
+  transform: translateX(-175%);
+}
+#data-text{
+  transform: translateX(100%);
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -32,8 +48,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
