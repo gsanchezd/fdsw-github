@@ -9,7 +9,32 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  height: 95vh;
 }
+
+/* efecto del banner*/
+
+#banner {
+  padding-top: 8rem;
+}
+
+#f-data {
+  overflow: hidden;
+}
+
+#f-data:hover #data-title,
+#f-data:hover #data-text {
+  transform: translateX(0);
+  transition: transform 0.6s 0.3s;
+}
+#data-title {
+  transform: translateX(-175%);
+}
+#data-text {
+  transform: translateX(100%);
+}
+
+/*...........*/
 
 /* Mis trabajos */
 
@@ -19,6 +44,53 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+/* Efecto de las Cards*/
+
+.shadow {
+  display: flex;
+  justify-content: end;
+  background: #5bc0de00;
+  background: linear-gradient(to bottom, #5bc0de00, #3a6073);
+  border-radius: 4px;
+}
+.shadow:hover {
+  padding-left: 5px;
+}
+
+/*.........................*/
+
+/*  Galería   */
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  background-color: #5bc0de38;
+  margin-top: 0;
+}
+
+article {
+  display: flex;
+  width: 1000px;
+  height: 630px;
+}
+
+article img {
+  width: 0px;
+  flex-grow: 1;
+  object-fit: cover;
+  opacity: 0.8;
+  transition: 0.5s ease;
+}
+
+section img:hover {
+  cursor: crosshair;
+  width: 700px;
+  opacity: 1;
+  filter: contrast(120%);
+}
+
+/*.........................*/
 
 /* Contacto */
 
@@ -32,8 +104,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
