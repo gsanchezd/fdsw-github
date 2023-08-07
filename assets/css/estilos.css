@@ -9,7 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
-  color: #373a3c;
+  color: #ffffff;
 
 }
 
@@ -21,7 +21,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
 }
+
+
 
 /* Contacto */
 
@@ -40,3 +43,4 @@ body {
   }
 
 }
+
