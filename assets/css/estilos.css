@@ -5,11 +5,14 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-hero3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  color: #ffffff;
+
 }
+
 
 /* Mis trabajos */
 
@@ -18,7 +21,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
 }
+
+
 
 /* Contacto */
 
@@ -37,3 +43,4 @@ body {
   }
 
 }
+
