@@ -18,6 +18,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+ 
 }
 
 /* Contacto */
@@ -34,6 +35,12 @@ body {
 
   .navbar-brand{
     width: 100px;
+    padding: 0px;
+    margin: 0px;
   }
 
+}
+
+#Acerca-de-mi{
+  background-color: rgb(171, 207, 216);
 }
