@@ -20,6 +20,11 @@ body {
   background-position: center;
 }
 
+a {
+  text-decoration: none;
+  color: rgb(24, 228, 228);
+}
+
 /* Contacto */
 
 #Contacto form label {
