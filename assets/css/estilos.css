@@ -1,11 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
 body {
   font-family: "Raleway", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-fondo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
