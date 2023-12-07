@@ -3,9 +3,12 @@ body {
 }
 
 /* Hero Section */
-
+.img-fluid {
+  width: 100px;
+  height: auto;
+}
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("https://www.amigoscode.com/_next/image?url=%2Fassets%2Fthumbnails%2Fcourses%2Fgit-github.png&w=3840&q=75");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
