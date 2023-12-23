@@ -18,6 +18,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
+  
 }
 
 /* Contacto */
@@ -42,3 +44,10 @@ body {
   width: auto ;
   height: 30px;
 }
+
+.row1 {
+  display: flex;
+  justify-content: center;
+  gap: 300px;
+}
+
