@@ -11,9 +11,11 @@ body {
   background-position: left;
 }
 
-
+header h1{
+  color: rgb(55, 55, 59);
+}
 header p{
-  color: black;
+  color: rgb(8, 8, 8);
   font-weight: 600;
 }
 
