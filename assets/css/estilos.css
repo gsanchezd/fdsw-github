@@ -2,6 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+
 /* Hero Section */
 
 #Hero-Section {
@@ -24,7 +25,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #52595e;
 }
 
 @media (max-width: 768px) {
