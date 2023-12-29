@@ -20,6 +20,9 @@ body {
   background-size: cover;
   background-position: center;
 }
+#Mis-trabajos h2 {
+  font-variant: small-caps;
+}
 
 /* Contacto */
 
