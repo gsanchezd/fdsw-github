@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/pro.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -18,6 +18,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
+  
 }
 
 /* Contacto */
@@ -37,3 +39,15 @@ body {
   }
 
 }
+
+.img-fluid {
+  width: auto ;
+  height: 30px;
+}
+
+.row1 {
+  display: flex;
+  justify-content: center;
+  gap: 300px;
+}
+
