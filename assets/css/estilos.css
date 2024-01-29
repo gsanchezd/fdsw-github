@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+.my-name{
+  font-size: 20px;
+  font-weight: 900;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
