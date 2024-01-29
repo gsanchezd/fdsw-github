@@ -15,9 +15,15 @@ body {
   font-size: 20px;
   font-weight: 900;
 }
-/* Mis trabajos */
 
-#Mis-trabajos .image-top {
+.about-me-list{
+  font-weight: bold;
+  text-align: justify;
+}
+
+/* Mis Proyectos */
+
+#Mis-proyectos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
