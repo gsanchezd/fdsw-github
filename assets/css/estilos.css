@@ -5,15 +5,25 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.4)),url("../img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
-/* Mis trabajos */
+.my-name{
+  font-size: 20px;
+  font-weight: 900;
+}
 
-#Mis-trabajos .image-top {
+.about-me-list{
+  font-weight: bold;
+  text-align: justify;
+}
+
+/* Mis Proyectos */
+
+#Mis-proyectos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
