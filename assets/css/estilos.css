@@ -28,8 +28,9 @@ body {
 }
 
 @media (max-width: 768px) {
-  #img{
-    
+  #Hero-Section{
+    width: 800px;
+    height: 800px;
   }
   #Contacto form label {
     font-weight: 400;
