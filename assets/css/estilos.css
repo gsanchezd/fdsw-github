@@ -28,6 +28,9 @@ body {
 }
 
 @media (max-width: 768px) {
+  #img{
+    
+  }
   #Contacto form label {
     font-weight: 400;
   }
