@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  margin: 0;
 }
 
 /* Hero Section */
@@ -18,13 +19,14 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-color: aqua;
 }
 
 /* Contacto */
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #127fc8;
 }
 
 @media (max-width: 768px) {
@@ -32,7 +34,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
