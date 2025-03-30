@@ -5,10 +5,10 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
+  background-image: url("/assets/img/bg-hero.jpg");
+  background-repeat: repeat;
+  background-size:contain;
+  background-position: center;
 }
 
 /* Mis trabajos */
@@ -18,7 +18,19 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  border-radius: 10%;
 }
+
+#Mis-trabajos{
+  background-color: #424242;
+  font-family: "Ephesis";
+}
+
+:hover i{    
+  transform: scale(1.8);
+  transition: transform 0.5s;
+}
+
 
 /* Contacto */
 
