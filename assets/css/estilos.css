@@ -35,5 +35,15 @@ body {
   .navbar-brand{
     width: 100px;
   }
+}
 
+/* Hover para íconos de "Acerca de mí" */
+#Acerca-de-mi i {
+  transition: transform 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+}
+
+#Acerca-de-mi i:hover {
+  transform: scale(1.2);
+  color: #0dcaf0; /* el celeste de tu tema Bootstrap */
 }
